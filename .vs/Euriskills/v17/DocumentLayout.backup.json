@@ -1,7 +1,28 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Programozas\\2025-26 susu\\Backend\\2025-11-05\\Euriskills\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B45BC41B-168B-4BE4-A27C-C4AD752E62DB}|Euriskills.csproj|c:\\programozas\\2025-26 susu\\backend\\2025-11-05\\euriskills\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B45BC41B-168B-4BE4-A27C-C4AD752E62DB}|Euriskills.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B45BC41B-168B-4BE4-A27C-C4AD752E62DB}|Euriskills.csproj|c:\\programozas\\2025-26 susu\\backend\\2025-11-05\\euriskills\\data\\szakmaiversenyzokdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B45BC41B-168B-4BE4-A27C-C4AD752E62DB}|Euriskills.csproj|solutionrelative:data\\szakmaiversenyzokdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B45BC41B-168B-4BE4-A27C-C4AD752E62DB}|Euriskills.csproj|c:\\programozas\\2025-26 susu\\backend\\2025-11-05\\euriskills\\models\\szakma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B45BC41B-168B-4BE4-A27C-C4AD752E62DB}|Euriskills.csproj|solutionrelative:models\\szakma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B45BC41B-168B-4BE4-A27C-C4AD752E62DB}|Euriskills.csproj|c:\\programozas\\2025-26 susu\\backend\\2025-11-05\\euriskills\\models\\orszag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B45BC41B-168B-4BE4-A27C-C4AD752E62DB}|Euriskills.csproj|solutionrelative:models\\orszag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B45BC41B-168B-4BE4-A27C-C4AD752E62DB}|Euriskills.csproj|c:\\programozas\\2025-26 susu\\backend\\2025-11-05\\euriskills\\models\\versenyzo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B45BC41B-168B-4BE4-A27C-C4AD752E62DB}|Euriskills.csproj|solutionrelative:models\\versenyzo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,8 +30,77 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Programozas\\2025-26 susu\\Backend\\2025-11-05\\Euriskills\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Programozas\\2025-26 susu\\Backend\\2025-11-05\\Euriskills\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T10:30:24.196Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Versenyzo.cs",
+              "DocumentMoniker": "C:\\Programozas\\2025-26 susu\\Backend\\2025-11-05\\Euriskills\\Models\\Versenyzo.cs",
+              "RelativeDocumentMoniker": "Models\\Versenyzo.cs",
+              "ToolTip": "C:\\Programozas\\2025-26 susu\\Backend\\2025-11-05\\Euriskills\\Models\\Versenyzo.cs",
+              "RelativeToolTip": "Models\\Versenyzo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T10:35:09.652Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Szakma.cs",
+              "DocumentMoniker": "C:\\Programozas\\2025-26 susu\\Backend\\2025-11-05\\Euriskills\\Models\\Szakma.cs",
+              "RelativeDocumentMoniker": "Models\\Szakma.cs",
+              "ToolTip": "C:\\Programozas\\2025-26 susu\\Backend\\2025-11-05\\Euriskills\\Models\\Szakma.cs",
+              "RelativeToolTip": "Models\\Szakma.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T10:39:02.291Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Orszag.cs",
+              "DocumentMoniker": "C:\\Programozas\\2025-26 susu\\Backend\\2025-11-05\\Euriskills\\Models\\Orszag.cs",
+              "RelativeDocumentMoniker": "Models\\Orszag.cs",
+              "ToolTip": "C:\\Programozas\\2025-26 susu\\Backend\\2025-11-05\\Euriskills\\Models\\Orszag.cs",
+              "RelativeToolTip": "Models\\Orszag.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T10:39:39.881Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SzakmaiVersenyzokDbContext.cs",
+              "DocumentMoniker": "C:\\Programozas\\2025-26 susu\\Backend\\2025-11-05\\Euriskills\\Data\\SzakmaiVersenyzokDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\SzakmaiVersenyzokDbContext.cs",
+              "ToolTip": "C:\\Programozas\\2025-26 susu\\Backend\\2025-11-05\\Euriskills\\Data\\SzakmaiVersenyzokDbContext.cs",
+              "RelativeToolTip": "Data\\SzakmaiVersenyzokDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T10:42:38.673Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"

@@ -1,4 +1,7 @@
 
+using Euriskills.Data;
+using Microsoft.EntityFrameworkCore;
+
 namespace Euriskills
 {
     public class Program
@@ -8,6 +11,10 @@ namespace Euriskills
             var builder = WebApplication.CreateBuilder(args);
 
             // Add services to the container.
+
+            builder.Services.AddDbContext<SzakmaiVersenyzokDbContext>(
+                options => options.UseSqlite(builder.Configuration.GetConnectionString("VersenyzokDbConnection")));
+
 
             builder.Services.AddControllers();
             // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
