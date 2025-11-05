@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Euriskills")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9b257cbc1e7c690602c86d2acd59c94af1d7f227")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b1ad839783a5404222a85c72c4bbf058fa453f7e")]
 [assembly: System.Reflection.AssemblyProductAttribute("Euriskills")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Euriskills")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
